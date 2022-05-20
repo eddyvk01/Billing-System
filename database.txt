@@ -1,0 +1,4 @@
+ 1 Apple 50 10
+ 2 Mango 40 5
+ 3 Orange 60 0
+ 4 cherry 70 10
