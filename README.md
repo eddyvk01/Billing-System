@@ -169,7 +169,7 @@ In your preferred editor, make sure indentation is set to "4 spaces".
 
 ---
 
-## Run using Python3.8+
+## Run using VScode
 1. Clone or download repositiory: https://github.com/eddyvk01/Billing-System.git
 2. In source folder, run `billing_system.cpp` to start program, optionally, run with `--help` argument to see other runtime options.
  
